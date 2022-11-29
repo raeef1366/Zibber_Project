@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "Scss Foundation",
+			"path": ".."
+		},
+		{
+			"name": "P10-SCSS-Lessons",
+			"path": "../../../P10-SCSS-Lessons"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Scss Foundation"
+	}
+}
